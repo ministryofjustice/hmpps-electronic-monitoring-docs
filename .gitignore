@@ -1,2 +1,10 @@
+#General
+.vscode
+*.DS_Store
+
+# Used for the Structurizr Lite Docker server
+build/
+.structurizr
+
+#For the github pages site
 .env
-.DS_Store
